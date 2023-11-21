@@ -5,3 +5,4 @@ Tecno: Java, Angular, Jira, Git
 amend
 commit desde local con master protegida en remoto
 commit srodrigonza
+Mr Spock :)
