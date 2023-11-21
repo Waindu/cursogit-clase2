@@ -1,4 +1,4 @@
 Nombre: Federico Pérez
-Edad:
+Edad: 36
 Puesto:
 Tecno:
