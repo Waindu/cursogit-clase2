@@ -1,0 +1,4 @@
+Nombre:
+Edad:
+Puesto:
+Tecno:
