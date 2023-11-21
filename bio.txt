@@ -1,4 +1,0 @@
-Nombre: Federico Pérez
-F. nac: 11-10-1987
-Puesto: Desarrollo
-Tecno: Java, Angular, Jira, Git
