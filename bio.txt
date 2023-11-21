@@ -1,4 +1,4 @@
 Nombre: Federico Pérez
 Edad: 36
 Puesto: Desarrollo
-Tecno:
+Tecno: Java, Angular, Jira, Git
