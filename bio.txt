@@ -1,4 +1,4 @@
-Nombre:
+Nombre: Federico Pérez
 Edad:
 Puesto:
 Tecno:
